@@ -1,1 +1,1 @@
-# Uso-de-.gitignore
+# Uso-de-gitignore
